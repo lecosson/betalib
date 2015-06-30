@@ -1,4 +1,8 @@
 
+include "pragma/pragma.as";
+
+"pragma lib 0.1";
+
 
 include "C/stdio/fcopy.as";
 
